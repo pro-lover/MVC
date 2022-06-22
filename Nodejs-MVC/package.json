@@ -17,7 +17,7 @@
     "pug": "^3.0.2",
     "sequelize": "^6.6.5",
     "slug": "^5.1.0",
-    "sqlite3": "^5.0.2"
+    "sqlite3": "^5.0.3"
   },
   "devDependencies": {
     "eslint": "^7.32.0",
